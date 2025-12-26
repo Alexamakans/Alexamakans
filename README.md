@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Alexamakans&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alexamakans&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
       </td>
       <td align="center">
         <img src="https://streak-stats.demolab.com/?user=Alexamakans&theme=default&hide_border=false" alt="GitHub Streak" />
@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexamakans&layout=compact&hide_border=false" alt="Top Languages" width="80%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alexamakans&layout=compact&hide_border=false" alt="Top Languages" width="80%" />
       </td>
     </tr>
   </table>
